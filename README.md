@@ -4,4 +4,4 @@ In this first part of the series, we’ll focus on setting up the Google API so 
 
 📌 Full tutorial: https://python-post.blogspot.com/2026/02/how-to-automatically-generate-and-email.html
 
-![image_source]
+![image_source](https://github.com/Kelvin-Data/Google_sheet/blob/aa8f4aa670440091cd2c9ff1abdddf49d5e0a31c/Invoice_form%20(1).png)
